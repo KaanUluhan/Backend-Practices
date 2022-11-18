@@ -1,0 +1,10 @@
+C:\Users\KAAN\source\repos\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\KAAN\source\repos\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\KAAN\source\repos\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\KAAN\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAN\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\KAAN\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\KAAN\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
